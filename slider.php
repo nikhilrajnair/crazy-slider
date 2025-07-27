@@ -10,39 +10,39 @@
 <div class="container">
 	<ul class="list-unstyled shop-slide cf">
 	    <li>             
-            <a href="/category/women-sales"><img class='lazyOwl' src='images/0_women-sales.jpg ' >
+            <a href="/category/women-sales"><img class='lazyOwl' src='images/0_women-sales.jpg' />
             <div class='caption'> Women's Sales</div></a>
         </li>
         <li>             
-            <a href="/category/men-sales"><img class='lazyOwl' src='images/8_trousers.jpg ' >
+            <a href="/category/men-sales"><img class='lazyOwl' src='images/8_trousers.jpg' />
             <div class='caption'> Men's Sales</div></a>
         </li>
         <li> 
-            <a href="/category/dresses"><img class='lazyOwl' src='images/2_dresses.jpg ' >
+            <a href="/category/dresses"><img class='lazyOwl' src='images/2_dresses.jpg' />
             <div class='caption'> Dresses</div></a> 
         </li>
         <li> 
-            <a href="/category/lingerie"><img class='lazyOwl' src='images/2_lingerie.jpg ' >
+            <a href="/category/lingerie"><img class='lazyOwl' src='images/2_lingerie.jpg' />
             <div class='caption'> Lingerie</div></a>
         </li>
         <li>             
-            <a href="/category/accessories"><img class='lazyOwl' src='images/2_accessories.jpg ' >
+            <a href="/category/accessories"><img class='lazyOwl' src='images/2_accessories.jpg' />
             <div class='caption'> Accessories</div></a> 
         </li>
         <li>               
-            <a href="/category/knitwear"><img class='lazyOwl' src='images/2_knitwear.jpg ' >
+            <a href="/category/knitwear"><img class='lazyOwl' src='images/2_knitwear.jpg' />
             <div class='caption'> Knitwear</div></a>
         </li>
         <li>               
-            <a href="/category/kids"><img class='lazyOwl' src='images/0_kids.jpg ' >
+            <a href="/category/kids"><img class='lazyOwl' src='images/0_kids.jpg' />
             <div class='caption'> Kids</div></a> 
         </li>
         <li>             
-            <a href="/category/shirts"><img class='lazyOwl' src='images/3_shirts.jpg ' >
+            <a href="/category/shirts"><img class='lazyOwl' src='images/3_shirts.jpg' />
             <div class='caption'> Shirts</div></a>
         </li>
         <li>               
-            <a href="/category/MensShoes"><img class='lazyOwl' src='images/3_MensShoes.jpg ' >
+            <a href="/category/MensShoes"><img class='lazyOwl' src='images/3_MensShoes.jpg' />
             <div class='caption'> Mens Shoes</div></a>
         </li>                     
     </ul> 
